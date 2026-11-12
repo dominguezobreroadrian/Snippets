@@ -1,0 +1,2214 @@
+{
+"Heroicon Academic Cap":  {
+                                "prefix":  "icon-academic-cap",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}academic-cap.svg\" alt=\"Academic Cap\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: academic-cap"
+                            },
+"Heroicon Adjustments Horizontal":  {
+                                        "prefix":  "icon-adjustments-horizontal",
+                                        "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}adjustments-horizontal.svg\" alt=\"Adjustments Horizontal\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                        "description":  "Heroicons Outline: adjustments-horizontal"
+                                    },
+"Heroicon Adjustments Vertical":  {
+                                        "prefix":  "icon-adjustments-vertical",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}adjustments-vertical.svg\" alt=\"Adjustments Vertical\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: adjustments-vertical"
+                                    },
+"Heroicon Archive Box Arrow Down":  {
+                                        "prefix":  "icon-archive-box-arrow-down",
+                                        "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}archive-box-arrow-down.svg\" alt=\"Archive Box Arrow Down\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                        "description":  "Heroicons Outline: archive-box-arrow-down"
+                                    },
+"Heroicon Archive Box X Mark":  {
+                                    "prefix":  "icon-archive-box-x-mark",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}archive-box-x-mark.svg\" alt=\"Archive Box X Mark\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: archive-box-x-mark"
+                                },
+"Heroicon Archive Box":  {
+                                "prefix":  "icon-archive-box",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}archive-box.svg\" alt=\"Archive Box\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: archive-box"
+                            },
+"Heroicon Arrow Down Circle":  {
+                                    "prefix":  "icon-arrow-down-circle",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-down-circle.svg\" alt=\"Arrow Down Circle\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-down-circle"
+                                },
+"Heroicon Arrow Down Left":  {
+                                    "prefix":  "icon-arrow-down-left",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-down-left.svg\" alt=\"Arrow Down Left\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-down-left"
+                                },
+"Heroicon Arrow Down On Square Stack":  {
+                                            "prefix":  "icon-arrow-down-on-square-stack",
+                                            "body":  [
+                                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-down-on-square-stack.svg\" alt=\"Arrow Down On Square Stack\" width=\"24\" height=\"24\"\u003e"
+                                                        ],
+                                            "description":  "Heroicons Outline: arrow-down-on-square-stack"
+                                        },
+"Heroicon Arrow Down On Square":  {
+                                        "prefix":  "icon-arrow-down-on-square",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-down-on-square.svg\" alt=\"Arrow Down On Square\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: arrow-down-on-square"
+                                    },
+"Heroicon Arrow Down Right":  {
+                                    "prefix":  "icon-arrow-down-right",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-down-right.svg\" alt=\"Arrow Down Right\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-down-right"
+                                },
+"Heroicon Arrow Down Tray":  {
+                                    "prefix":  "icon-arrow-down-tray",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-down-tray.svg\" alt=\"Arrow Down Tray\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-down-tray"
+                                },
+"Heroicon Arrow Down":  {
+                            "prefix":  "icon-arrow-down",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-down.svg\" alt=\"Arrow Down\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: arrow-down"
+                        },
+"Heroicon Arrow Left Circle":  {
+                                    "prefix":  "icon-arrow-left-circle",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-left-circle.svg\" alt=\"Arrow Left Circle\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-left-circle"
+                                },
+"Heroicon Arrow Left End On Rectangle":  {
+                                                "prefix":  "icon-arrow-left-end-on-rectangle",
+                                                "body":  [
+                                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-left-end-on-rectangle.svg\" alt=\"Arrow Left End On Rectangle\" width=\"24\" height=\"24\"\u003e"
+                                                        ],
+                                                "description":  "Heroicons Outline: arrow-left-end-on-rectangle"
+                                            },
+"Heroicon Arrow Left Start On Rectangle":  {
+                                                "prefix":  "icon-arrow-left-start-on-rectangle",
+                                                "body":  [
+                                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-left-start-on-rectangle.svg\" alt=\"Arrow Left Start On Rectangle\" width=\"24\" height=\"24\"\u003e"
+                                                        ],
+                                                "description":  "Heroicons Outline: arrow-left-start-on-rectangle"
+                                            },
+"Heroicon Arrow Left":  {
+                            "prefix":  "icon-arrow-left",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-left.svg\" alt=\"Arrow Left\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: arrow-left"
+                        },
+"Heroicon Arrow Long Down":  {
+                                    "prefix":  "icon-arrow-long-down",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-long-down.svg\" alt=\"Arrow Long Down\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-long-down"
+                                },
+"Heroicon Arrow Long Left":  {
+                                    "prefix":  "icon-arrow-long-left",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-long-left.svg\" alt=\"Arrow Long Left\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-long-left"
+                                },
+"Heroicon Arrow Long Right":  {
+                                    "prefix":  "icon-arrow-long-right",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-long-right.svg\" alt=\"Arrow Long Right\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-long-right"
+                                },
+"Heroicon Arrow Long Up":  {
+                                "prefix":  "icon-arrow-long-up",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-long-up.svg\" alt=\"Arrow Long Up\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: arrow-long-up"
+                            },
+"Heroicon Arrow Path Rounded Square":  {
+                                            "prefix":  "icon-arrow-path-rounded-square",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-path-rounded-square.svg\" alt=\"Arrow Path Rounded Square\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: arrow-path-rounded-square"
+                                        },
+"Heroicon Arrow Path":  {
+                            "prefix":  "icon-arrow-path",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-path.svg\" alt=\"Arrow Path\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: arrow-path"
+                        },
+"Heroicon Arrow Right Circle":  {
+                                    "prefix":  "icon-arrow-right-circle",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-right-circle.svg\" alt=\"Arrow Right Circle\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: arrow-right-circle"
+                                },
+"Heroicon Arrow Right End On Rectangle":  {
+                                                "prefix":  "icon-arrow-right-end-on-rectangle",
+                                                "body":  [
+                                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-right-end-on-rectangle.svg\" alt=\"Arrow Right End On Rectangle\" width=\"24\" height=\"24\"\u003e"
+                                                        ],
+                                                "description":  "Heroicons Outline: arrow-right-end-on-rectangle"
+                                            },
+"Heroicon Arrow Right Start On Rectangle":  {
+                                                "prefix":  "icon-arrow-right-start-on-rectangle",
+                                                "body":  [
+                                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-right-start-on-rectangle.svg\" alt=\"Arrow Right Start On Rectangle\" width=\"24\" height=\"24\"\u003e"
+                                                            ],
+                                                "description":  "Heroicons Outline: arrow-right-start-on-rectangle"
+                                            },
+"Heroicon Arrow Right":  {
+                                "prefix":  "icon-arrow-right",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-right.svg\" alt=\"Arrow Right\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: arrow-right"
+                            },
+"Heroicon Arrow Top Right On Square":  {
+                                            "prefix":  "icon-arrow-top-right-on-square",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-top-right-on-square.svg\" alt=\"Arrow Top Right On Square\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: arrow-top-right-on-square"
+                                        },
+"Heroicon Arrow Trending Down":  {
+                                        "prefix":  "icon-arrow-trending-down",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-trending-down.svg\" alt=\"Arrow Trending Down\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: arrow-trending-down"
+                                    },
+"Heroicon Arrow Trending Up":  {
+                                    "prefix":  "icon-arrow-trending-up",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-trending-up.svg\" alt=\"Arrow Trending Up\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-trending-up"
+                                },
+"Heroicon Arrow Turn Down Left":  {
+                                        "prefix":  "icon-arrow-turn-down-left",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-turn-down-left.svg\" alt=\"Arrow Turn Down Left\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: arrow-turn-down-left"
+                                    },
+"Heroicon Arrow Turn Down Right":  {
+                                        "prefix":  "icon-arrow-turn-down-right",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-turn-down-right.svg\" alt=\"Arrow Turn Down Right\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: arrow-turn-down-right"
+                                    },
+"Heroicon Arrow Turn Left Down":  {
+                                        "prefix":  "icon-arrow-turn-left-down",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-turn-left-down.svg\" alt=\"Arrow Turn Left Down\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: arrow-turn-left-down"
+                                    },
+"Heroicon Arrow Turn Left Up":  {
+                                    "prefix":  "icon-arrow-turn-left-up",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-turn-left-up.svg\" alt=\"Arrow Turn Left Up\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: arrow-turn-left-up"
+                                },
+"Heroicon Arrow Turn Right Down":  {
+                                        "prefix":  "icon-arrow-turn-right-down",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-turn-right-down.svg\" alt=\"Arrow Turn Right Down\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: arrow-turn-right-down"
+                                    },
+"Heroicon Arrow Turn Right Up":  {
+                                        "prefix":  "icon-arrow-turn-right-up",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-turn-right-up.svg\" alt=\"Arrow Turn Right Up\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: arrow-turn-right-up"
+                                    },
+"Heroicon Arrow Turn Up Left":  {
+                                    "prefix":  "icon-arrow-turn-up-left",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-turn-up-left.svg\" alt=\"Arrow Turn Up Left\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: arrow-turn-up-left"
+                                },
+"Heroicon Arrow Turn Up Right":  {
+                                        "prefix":  "icon-arrow-turn-up-right",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-turn-up-right.svg\" alt=\"Arrow Turn Up Right\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: arrow-turn-up-right"
+                                    },
+"Heroicon Arrow Up Circle":  {
+                                    "prefix":  "icon-arrow-up-circle",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-up-circle.svg\" alt=\"Arrow Up Circle\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-up-circle"
+                                },
+"Heroicon Arrow Up Left":  {
+                                "prefix":  "icon-arrow-up-left",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-up-left.svg\" alt=\"Arrow Up Left\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: arrow-up-left"
+                            },
+"Heroicon Arrow Up On Square Stack":  {
+                                            "prefix":  "icon-arrow-up-on-square-stack",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-up-on-square-stack.svg\" alt=\"Arrow Up On Square Stack\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: arrow-up-on-square-stack"
+                                        },
+"Heroicon Arrow Up On Square":  {
+                                    "prefix":  "icon-arrow-up-on-square",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-up-on-square.svg\" alt=\"Arrow Up On Square\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: arrow-up-on-square"
+                                },
+"Heroicon Arrow Up Right":  {
+                                "prefix":  "icon-arrow-up-right",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-up-right.svg\" alt=\"Arrow Up Right\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: arrow-up-right"
+                            },
+"Heroicon Arrow Up Tray":  {
+                                "prefix":  "icon-arrow-up-tray",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-up-tray.svg\" alt=\"Arrow Up Tray\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: arrow-up-tray"
+                            },
+"Heroicon Arrow Up":  {
+                            "prefix":  "icon-arrow-up",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-up.svg\" alt=\"Arrow Up\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: arrow-up"
+                        },
+"Heroicon Arrow Uturn Down":  {
+                                    "prefix":  "icon-arrow-uturn-down",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-uturn-down.svg\" alt=\"Arrow Uturn Down\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-uturn-down"
+                                },
+"Heroicon Arrow Uturn Left":  {
+                                    "prefix":  "icon-arrow-uturn-left",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-uturn-left.svg\" alt=\"Arrow Uturn Left\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-uturn-left"
+                                },
+"Heroicon Arrow Uturn Right":  {
+                                    "prefix":  "icon-arrow-uturn-right",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-uturn-right.svg\" alt=\"Arrow Uturn Right\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrow-uturn-right"
+                                },
+"Heroicon Arrow Uturn Up":  {
+                                "prefix":  "icon-arrow-uturn-up",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrow-uturn-up.svg\" alt=\"Arrow Uturn Up\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: arrow-uturn-up"
+                            },
+"Heroicon Arrows Pointing In":  {
+                                    "prefix":  "icon-arrows-pointing-in",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrows-pointing-in.svg\" alt=\"Arrows Pointing In\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: arrows-pointing-in"
+                                },
+"Heroicon Arrows Pointing Out":  {
+                                        "prefix":  "icon-arrows-pointing-out",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}arrows-pointing-out.svg\" alt=\"Arrows Pointing Out\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: arrows-pointing-out"
+                                    },
+"Heroicon Arrows Right Left":  {
+                                    "prefix":  "icon-arrows-right-left",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrows-right-left.svg\" alt=\"Arrows Right Left\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: arrows-right-left"
+                                },
+"Heroicon Arrows Up Down":  {
+                                "prefix":  "icon-arrows-up-down",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}arrows-up-down.svg\" alt=\"Arrows Up Down\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: arrows-up-down"
+                            },
+"Heroicon At Symbol":  {
+                            "prefix":  "icon-at-symbol",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}at-symbol.svg\" alt=\"At Symbol\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: at-symbol"
+                        },
+"Heroicon Backspace":  {
+                            "prefix":  "icon-backspace",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}backspace.svg\" alt=\"Backspace\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: backspace"
+                        },
+"Heroicon Backward":  {
+                            "prefix":  "icon-backward",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}backward.svg\" alt=\"Backward\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: backward"
+                        },
+"Heroicon Banknotes":  {
+                            "prefix":  "icon-banknotes",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}banknotes.svg\" alt=\"Banknotes\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: banknotes"
+                        },
+"Heroicon Bars 2":  {
+                        "prefix":  "icon-bars-2",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}bars-2.svg\" alt=\"Bars 2\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: bars-2"
+                    },
+"Heroicon Bars 3 Bottom Left":  {
+                                    "prefix":  "icon-bars-3-bottom-left",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}bars-3-bottom-left.svg\" alt=\"Bars 3 Bottom Left\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: bars-3-bottom-left"
+                                },
+"Heroicon Bars 3 Bottom Right":  {
+                                        "prefix":  "icon-bars-3-bottom-right",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}bars-3-bottom-right.svg\" alt=\"Bars 3 Bottom Right\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: bars-3-bottom-right"
+                                    },
+"Heroicon Bars 3 Center Left":  {
+                                    "prefix":  "icon-bars-3-center-left",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}bars-3-center-left.svg\" alt=\"Bars 3 Center Left\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: bars-3-center-left"
+                                },
+"Heroicon Bars 3":  {
+                        "prefix":  "icon-bars-3",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}bars-3.svg\" alt=\"Bars 3\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: bars-3"
+                    },
+"Heroicon Bars 4":  {
+                        "prefix":  "icon-bars-4",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}bars-4.svg\" alt=\"Bars 4\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: bars-4"
+                    },
+"Heroicon Bars Arrow Down":  {
+                                    "prefix":  "icon-bars-arrow-down",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}bars-arrow-down.svg\" alt=\"Bars Arrow Down\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: bars-arrow-down"
+                                },
+"Heroicon Bars Arrow Up":  {
+                                "prefix":  "icon-bars-arrow-up",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}bars-arrow-up.svg\" alt=\"Bars Arrow Up\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: bars-arrow-up"
+                            },
+"Heroicon Battery 0":  {
+                            "prefix":  "icon-battery-0",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}battery-0.svg\" alt=\"Battery 0\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: battery-0"
+                        },
+"Heroicon Battery 100":  {
+                                "prefix":  "icon-battery-100",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}battery-100.svg\" alt=\"Battery 100\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: battery-100"
+                            },
+"Heroicon Battery 50":  {
+                            "prefix":  "icon-battery-50",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}battery-50.svg\" alt=\"Battery 50\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: battery-50"
+                        },
+"Heroicon Beaker":  {
+                        "prefix":  "icon-beaker",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}beaker.svg\" alt=\"Beaker\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: beaker"
+                    },
+"Heroicon Bell Alert":  {
+                            "prefix":  "icon-bell-alert",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}bell-alert.svg\" alt=\"Bell Alert\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: bell-alert"
+                        },
+"Heroicon Bell Slash":  {
+                            "prefix":  "icon-bell-slash",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}bell-slash.svg\" alt=\"Bell Slash\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: bell-slash"
+                        },
+"Heroicon Bell Snooze":  {
+                                "prefix":  "icon-bell-snooze",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}bell-snooze.svg\" alt=\"Bell Snooze\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: bell-snooze"
+                            },
+"Heroicon Bell":  {
+                        "prefix":  "icon-bell",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}bell.svg\" alt=\"Bell\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: bell"
+                    },
+"Heroicon Bold":  {
+                        "prefix":  "icon-bold",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}bold.svg\" alt=\"Bold\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: bold"
+                    },
+"Heroicon Bolt Slash":  {
+                            "prefix":  "icon-bolt-slash",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}bolt-slash.svg\" alt=\"Bolt Slash\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: bolt-slash"
+                        },
+"Heroicon Bolt":  {
+                        "prefix":  "icon-bolt",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}bolt.svg\" alt=\"Bolt\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: bolt"
+                    },
+"Heroicon Book Open":  {
+                            "prefix":  "icon-book-open",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}book-open.svg\" alt=\"Book Open\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: book-open"
+                        },
+"Heroicon Bookmark Slash":  {
+                                "prefix":  "icon-bookmark-slash",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}bookmark-slash.svg\" alt=\"Bookmark Slash\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: bookmark-slash"
+                            },
+"Heroicon Bookmark Square":  {
+                                    "prefix":  "icon-bookmark-square",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}bookmark-square.svg\" alt=\"Bookmark Square\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: bookmark-square"
+                                },
+"Heroicon Bookmark":  {
+                            "prefix":  "icon-bookmark",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}bookmark.svg\" alt=\"Bookmark\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: bookmark"
+                        },
+"Heroicon Briefcase":  {
+                            "prefix":  "icon-briefcase",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}briefcase.svg\" alt=\"Briefcase\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: briefcase"
+                        },
+"Heroicon Bug Ant":  {
+                            "prefix":  "icon-bug-ant",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}bug-ant.svg\" alt=\"Bug Ant\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: bug-ant"
+                        },
+"Heroicon Building Library":  {
+                                    "prefix":  "icon-building-library",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}building-library.svg\" alt=\"Building Library\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: building-library"
+                                },
+"Heroicon Building Office 2":  {
+                                    "prefix":  "icon-building-office-2",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}building-office-2.svg\" alt=\"Building Office 2\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: building-office-2"
+                                },
+"Heroicon Building Office":  {
+                                    "prefix":  "icon-building-office",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}building-office.svg\" alt=\"Building Office\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: building-office"
+                                },
+"Heroicon Building Storefront":  {
+                                        "prefix":  "icon-building-storefront",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}building-storefront.svg\" alt=\"Building Storefront\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: building-storefront"
+                                    },
+"Heroicon Cake":  {
+                        "prefix":  "icon-cake",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}cake.svg\" alt=\"Cake\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: cake"
+                    },
+"Heroicon Calculator":  {
+                            "prefix":  "icon-calculator",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}calculator.svg\" alt=\"Calculator\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: calculator"
+                        },
+"Heroicon Calendar Date Range":  {
+                                        "prefix":  "icon-calendar-date-range",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}calendar-date-range.svg\" alt=\"Calendar Date Range\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: calendar-date-range"
+                                    },
+"Heroicon Calendar Days":  {
+                                "prefix":  "icon-calendar-days",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}calendar-days.svg\" alt=\"Calendar Days\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: calendar-days"
+                            },
+"Heroicon Calendar":  {
+                            "prefix":  "icon-calendar",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}calendar.svg\" alt=\"Calendar\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: calendar"
+                        },
+"Heroicon Camera":  {
+                        "prefix":  "icon-camera",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}camera.svg\" alt=\"Camera\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: camera"
+                    },
+"Heroicon Chart Bar Square":  {
+                                    "prefix":  "icon-chart-bar-square",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}chart-bar-square.svg\" alt=\"Chart Bar Square\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: chart-bar-square"
+                                },
+"Heroicon Chart Bar":  {
+                            "prefix":  "icon-chart-bar",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}chart-bar.svg\" alt=\"Chart Bar\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: chart-bar"
+                        },
+"Heroicon Chart Pie":  {
+                            "prefix":  "icon-chart-pie",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}chart-pie.svg\" alt=\"Chart Pie\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: chart-pie"
+                        },
+"Heroicon Chat Bubble Bottom Center Text":  {
+                                                "prefix":  "icon-chat-bubble-bottom-center-text",
+                                                "body":  [
+                                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}chat-bubble-bottom-center-text.svg\" alt=\"Chat Bubble Bottom Center Text\" width=\"24\" height=\"24\"\u003e"
+                                                            ],
+                                                "description":  "Heroicons Outline: chat-bubble-bottom-center-text"
+                                            },
+"Heroicon Chat Bubble Bottom Center":  {
+                                            "prefix":  "icon-chat-bubble-bottom-center",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}chat-bubble-bottom-center.svg\" alt=\"Chat Bubble Bottom Center\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: chat-bubble-bottom-center"
+                                        },
+"Heroicon Chat Bubble Left Ellipsis":  {
+                                            "prefix":  "icon-chat-bubble-left-ellipsis",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}chat-bubble-left-ellipsis.svg\" alt=\"Chat Bubble Left Ellipsis\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: chat-bubble-left-ellipsis"
+                                        },
+"Heroicon Chat Bubble Left Right":  {
+                                        "prefix":  "icon-chat-bubble-left-right",
+                                        "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}chat-bubble-left-right.svg\" alt=\"Chat Bubble Left Right\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                        "description":  "Heroicons Outline: chat-bubble-left-right"
+                                    },
+"Heroicon Chat Bubble Left":  {
+                                    "prefix":  "icon-chat-bubble-left",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}chat-bubble-left.svg\" alt=\"Chat Bubble Left\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: chat-bubble-left"
+                                },
+"Heroicon Chat Bubble Oval Left Ellipsis":  {
+                                                "prefix":  "icon-chat-bubble-oval-left-ellipsis",
+                                                "body":  [
+                                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}chat-bubble-oval-left-ellipsis.svg\" alt=\"Chat Bubble Oval Left Ellipsis\" width=\"24\" height=\"24\"\u003e"
+                                                            ],
+                                                "description":  "Heroicons Outline: chat-bubble-oval-left-ellipsis"
+                                            },
+"Heroicon Chat Bubble Oval Left":  {
+                                        "prefix":  "icon-chat-bubble-oval-left",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}chat-bubble-oval-left.svg\" alt=\"Chat Bubble Oval Left\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: chat-bubble-oval-left"
+                                    },
+"Heroicon Check Badge":  {
+                                "prefix":  "icon-check-badge",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}check-badge.svg\" alt=\"Check Badge\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: check-badge"
+                            },
+"Heroicon Check Circle":  {
+                                "prefix":  "icon-check-circle",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}check-circle.svg\" alt=\"Check Circle\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: check-circle"
+                            },
+"Heroicon Check":  {
+                        "prefix":  "icon-check",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}check.svg\" alt=\"Check\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: check"
+                    },
+"Heroicon Chevron Double Down":  {
+                                        "prefix":  "icon-chevron-double-down",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}chevron-double-down.svg\" alt=\"Chevron Double Down\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: chevron-double-down"
+                                    },
+"Heroicon Chevron Double Left":  {
+                                        "prefix":  "icon-chevron-double-left",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}chevron-double-left.svg\" alt=\"Chevron Double Left\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: chevron-double-left"
+                                    },
+"Heroicon Chevron Double Right":  {
+                                        "prefix":  "icon-chevron-double-right",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}chevron-double-right.svg\" alt=\"Chevron Double Right\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: chevron-double-right"
+                                    },
+"Heroicon Chevron Double Up":  {
+                                    "prefix":  "icon-chevron-double-up",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}chevron-double-up.svg\" alt=\"Chevron Double Up\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: chevron-double-up"
+                                },
+"Heroicon Chevron Down":  {
+                                "prefix":  "icon-chevron-down",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}chevron-down.svg\" alt=\"Chevron Down\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: chevron-down"
+                            },
+"Heroicon Chevron Left":  {
+                                "prefix":  "icon-chevron-left",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}chevron-left.svg\" alt=\"Chevron Left\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: chevron-left"
+                            },
+"Heroicon Chevron Right":  {
+                                "prefix":  "icon-chevron-right",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}chevron-right.svg\" alt=\"Chevron Right\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: chevron-right"
+                            },
+"Heroicon Chevron Up Down":  {
+                                    "prefix":  "icon-chevron-up-down",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}chevron-up-down.svg\" alt=\"Chevron Up Down\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: chevron-up-down"
+                                },
+"Heroicon Chevron Up":  {
+                            "prefix":  "icon-chevron-up",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}chevron-up.svg\" alt=\"Chevron Up\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: chevron-up"
+                        },
+"Heroicon Circle Stack":  {
+                                "prefix":  "icon-circle-stack",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}circle-stack.svg\" alt=\"Circle Stack\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: circle-stack"
+                            },
+"Heroicon Clipboard Document Check":  {
+                                            "prefix":  "icon-clipboard-document-check",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}clipboard-document-check.svg\" alt=\"Clipboard Document Check\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: clipboard-document-check"
+                                        },
+"Heroicon Clipboard Document List":  {
+                                            "prefix":  "icon-clipboard-document-list",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}clipboard-document-list.svg\" alt=\"Clipboard Document List\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: clipboard-document-list"
+                                        },
+"Heroicon Clipboard Document":  {
+                                    "prefix":  "icon-clipboard-document",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}clipboard-document.svg\" alt=\"Clipboard Document\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: clipboard-document"
+                                },
+"Heroicon Clipboard":  {
+                            "prefix":  "icon-clipboard",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}clipboard.svg\" alt=\"Clipboard\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: clipboard"
+                        },
+"Heroicon Clock":  {
+                        "prefix":  "icon-clock",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}clock.svg\" alt=\"Clock\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: clock"
+                    },
+"Heroicon Cloud Arrow Down":  {
+                                    "prefix":  "icon-cloud-arrow-down",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}cloud-arrow-down.svg\" alt=\"Cloud Arrow Down\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: cloud-arrow-down"
+                                },
+"Heroicon Cloud Arrow Up":  {
+                                "prefix":  "icon-cloud-arrow-up",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}cloud-arrow-up.svg\" alt=\"Cloud Arrow Up\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: cloud-arrow-up"
+                            },
+"Heroicon Cloud":  {
+                        "prefix":  "icon-cloud",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}cloud.svg\" alt=\"Cloud\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: cloud"
+                    },
+"Heroicon Code Bracket Square":  {
+                                        "prefix":  "icon-code-bracket-square",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}code-bracket-square.svg\" alt=\"Code Bracket Square\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: code-bracket-square"
+                                    },
+"Heroicon Code Bracket":  {
+                                "prefix":  "icon-code-bracket",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}code-bracket.svg\" alt=\"Code Bracket\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: code-bracket"
+                            },
+"Heroicon Cog 6 Tooth":  {
+                                "prefix":  "icon-cog-6-tooth",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}cog-6-tooth.svg\" alt=\"Cog 6 Tooth\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: cog-6-tooth"
+                            },
+"Heroicon Cog 8 Tooth":  {
+                                "prefix":  "icon-cog-8-tooth",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}cog-8-tooth.svg\" alt=\"Cog 8 Tooth\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: cog-8-tooth"
+                            },
+"Heroicon Cog":  {
+                        "prefix":  "icon-cog",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}cog.svg\" alt=\"Cog\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: cog"
+                    },
+"Heroicon Command Line":  {
+                                "prefix":  "icon-command-line",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}command-line.svg\" alt=\"Command Line\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: command-line"
+                            },
+"Heroicon Computer Desktop":  {
+                                    "prefix":  "icon-computer-desktop",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}computer-desktop.svg\" alt=\"Computer Desktop\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: computer-desktop"
+                                },
+"Heroicon Cpu Chip":  {
+                            "prefix":  "icon-cpu-chip",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}cpu-chip.svg\" alt=\"Cpu Chip\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: cpu-chip"
+                        },
+"Heroicon Credit Card":  {
+                                "prefix":  "icon-credit-card",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}credit-card.svg\" alt=\"Credit Card\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: credit-card"
+                            },
+"Heroicon Cube Transparent":  {
+                                    "prefix":  "icon-cube-transparent",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}cube-transparent.svg\" alt=\"Cube Transparent\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: cube-transparent"
+                                },
+"Heroicon Cube":  {
+                        "prefix":  "icon-cube",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}cube.svg\" alt=\"Cube\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: cube"
+                    },
+"Heroicon Currency Bangladeshi":  {
+                                        "prefix":  "icon-currency-bangladeshi",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}currency-bangladeshi.svg\" alt=\"Currency Bangladeshi\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: currency-bangladeshi"
+                                    },
+"Heroicon Currency Dollar":  {
+                                    "prefix":  "icon-currency-dollar",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}currency-dollar.svg\" alt=\"Currency Dollar\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: currency-dollar"
+                                },
+"Heroicon Currency Euro":  {
+                                "prefix":  "icon-currency-euro",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}currency-euro.svg\" alt=\"Currency Euro\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: currency-euro"
+                            },
+"Heroicon Currency Pound":  {
+                                "prefix":  "icon-currency-pound",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}currency-pound.svg\" alt=\"Currency Pound\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: currency-pound"
+                            },
+"Heroicon Currency Rupee":  {
+                                "prefix":  "icon-currency-rupee",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}currency-rupee.svg\" alt=\"Currency Rupee\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: currency-rupee"
+                            },
+"Heroicon Currency Yen":  {
+                                "prefix":  "icon-currency-yen",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}currency-yen.svg\" alt=\"Currency Yen\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: currency-yen"
+                            },
+"Heroicon Cursor Arrow Rays":  {
+                                    "prefix":  "icon-cursor-arrow-rays",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}cursor-arrow-rays.svg\" alt=\"Cursor Arrow Rays\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: cursor-arrow-rays"
+                                },
+"Heroicon Cursor Arrow Ripple":  {
+                                        "prefix":  "icon-cursor-arrow-ripple",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}cursor-arrow-ripple.svg\" alt=\"Cursor Arrow Ripple\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: cursor-arrow-ripple"
+                                    },
+"Heroicon Device Phone Mobile":  {
+                                        "prefix":  "icon-device-phone-mobile",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}device-phone-mobile.svg\" alt=\"Device Phone Mobile\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: device-phone-mobile"
+                                    },
+"Heroicon Device Tablet":  {
+                                "prefix":  "icon-device-tablet",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}device-tablet.svg\" alt=\"Device Tablet\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: device-tablet"
+                            },
+"Heroicon Divide":  {
+                        "prefix":  "icon-divide",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}divide.svg\" alt=\"Divide\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: divide"
+                    },
+"Heroicon Document Arrow Down":  {
+                                        "prefix":  "icon-document-arrow-down",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}document-arrow-down.svg\" alt=\"Document Arrow Down\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: document-arrow-down"
+                                    },
+"Heroicon Document Arrow Up":  {
+                                    "prefix":  "icon-document-arrow-up",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}document-arrow-up.svg\" alt=\"Document Arrow Up\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: document-arrow-up"
+                                },
+"Heroicon Document Chart Bar":  {
+                                    "prefix":  "icon-document-chart-bar",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}document-chart-bar.svg\" alt=\"Document Chart Bar\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: document-chart-bar"
+                                },
+"Heroicon Document Check":  {
+                                "prefix":  "icon-document-check",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}document-check.svg\" alt=\"Document Check\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: document-check"
+                            },
+"Heroicon Document Currency Bangladeshi":  {
+                                                "prefix":  "icon-document-currency-bangladeshi",
+                                                "body":  [
+                                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}document-currency-bangladeshi.svg\" alt=\"Document Currency Bangladeshi\" width=\"24\" height=\"24\"\u003e"
+                                                        ],
+                                                "description":  "Heroicons Outline: document-currency-bangladeshi"
+                                            },
+"Heroicon Document Currency Dollar":  {
+                                            "prefix":  "icon-document-currency-dollar",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}document-currency-dollar.svg\" alt=\"Document Currency Dollar\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: document-currency-dollar"
+                                        },
+"Heroicon Document Currency Euro":  {
+                                        "prefix":  "icon-document-currency-euro",
+                                        "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}document-currency-euro.svg\" alt=\"Document Currency Euro\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                        "description":  "Heroicons Outline: document-currency-euro"
+                                    },
+"Heroicon Document Currency Pound":  {
+                                            "prefix":  "icon-document-currency-pound",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}document-currency-pound.svg\" alt=\"Document Currency Pound\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: document-currency-pound"
+                                        },
+"Heroicon Document Currency Rupee":  {
+                                            "prefix":  "icon-document-currency-rupee",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}document-currency-rupee.svg\" alt=\"Document Currency Rupee\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: document-currency-rupee"
+                                        },
+"Heroicon Document Currency Yen":  {
+                                        "prefix":  "icon-document-currency-yen",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}document-currency-yen.svg\" alt=\"Document Currency Yen\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: document-currency-yen"
+                                    },
+"Heroicon Document Duplicate":  {
+                                    "prefix":  "icon-document-duplicate",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}document-duplicate.svg\" alt=\"Document Duplicate\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: document-duplicate"
+                                },
+"Heroicon Document Magnifying Glass":  {
+                                            "prefix":  "icon-document-magnifying-glass",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}document-magnifying-glass.svg\" alt=\"Document Magnifying Glass\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: document-magnifying-glass"
+                                        },
+"Heroicon Document Minus":  {
+                                "prefix":  "icon-document-minus",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}document-minus.svg\" alt=\"Document Minus\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: document-minus"
+                            },
+"Heroicon Document Plus":  {
+                                "prefix":  "icon-document-plus",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}document-plus.svg\" alt=\"Document Plus\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: document-plus"
+                            },
+"Heroicon Document Text":  {
+                                "prefix":  "icon-document-text",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}document-text.svg\" alt=\"Document Text\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: document-text"
+                            },
+"Heroicon Document":  {
+                            "prefix":  "icon-document",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}document.svg\" alt=\"Document\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: document"
+                        },
+"Heroicon Ellipsis Horizontal Circle":  {
+                                            "prefix":  "icon-ellipsis-horizontal-circle",
+                                            "body":  [
+                                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}ellipsis-horizontal-circle.svg\" alt=\"Ellipsis Horizontal Circle\" width=\"24\" height=\"24\"\u003e"
+                                                        ],
+                                            "description":  "Heroicons Outline: ellipsis-horizontal-circle"
+                                        },
+"Heroicon Ellipsis Horizontal":  {
+                                        "prefix":  "icon-ellipsis-horizontal",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}ellipsis-horizontal.svg\" alt=\"Ellipsis Horizontal\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: ellipsis-horizontal"
+                                    },
+"Heroicon Ellipsis Vertical":  {
+                                    "prefix":  "icon-ellipsis-vertical",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}ellipsis-vertical.svg\" alt=\"Ellipsis Vertical\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: ellipsis-vertical"
+                                },
+"Heroicon Envelope Open":  {
+                                "prefix":  "icon-envelope-open",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}envelope-open.svg\" alt=\"Envelope Open\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: envelope-open"
+                            },
+"Heroicon Envelope":  {
+                            "prefix":  "icon-envelope",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}envelope.svg\" alt=\"Envelope\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: envelope"
+                        },
+"Heroicon Equals":  {
+                        "prefix":  "icon-equals",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}equals.svg\" alt=\"Equals\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: equals"
+                    },
+"Heroicon Exclamation Circle":  {
+                                    "prefix":  "icon-exclamation-circle",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}exclamation-circle.svg\" alt=\"Exclamation Circle\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: exclamation-circle"
+                                },
+"Heroicon Exclamation Triangle":  {
+                                        "prefix":  "icon-exclamation-triangle",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}exclamation-triangle.svg\" alt=\"Exclamation Triangle\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: exclamation-triangle"
+                                    },
+"Heroicon Eye Dropper":  {
+                                "prefix":  "icon-eye-dropper",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}eye-dropper.svg\" alt=\"Eye Dropper\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: eye-dropper"
+                            },
+"Heroicon Eye Slash":  {
+                            "prefix":  "icon-eye-slash",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}eye-slash.svg\" alt=\"Eye Slash\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: eye-slash"
+                        },
+"Heroicon Eye":  {
+                        "prefix":  "icon-eye",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}eye.svg\" alt=\"Eye\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: eye"
+                    },
+"Heroicon Face Frown":  {
+                            "prefix":  "icon-face-frown",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}face-frown.svg\" alt=\"Face Frown\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: face-frown"
+                        },
+"Heroicon Face Smile":  {
+                            "prefix":  "icon-face-smile",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}face-smile.svg\" alt=\"Face Smile\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: face-smile"
+                        },
+"Heroicon Film":  {
+                        "prefix":  "icon-film",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}film.svg\" alt=\"Film\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: film"
+                    },
+"Heroicon Finger Print":  {
+                                "prefix":  "icon-finger-print",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}finger-print.svg\" alt=\"Finger Print\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: finger-print"
+                            },
+"Heroicon Fire":  {
+                        "prefix":  "icon-fire",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}fire.svg\" alt=\"Fire\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: fire"
+                    },
+"Heroicon Flag":  {
+                        "prefix":  "icon-flag",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}flag.svg\" alt=\"Flag\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: flag"
+                    },
+"Heroicon Folder Arrow Down":  {
+                                    "prefix":  "icon-folder-arrow-down",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}folder-arrow-down.svg\" alt=\"Folder Arrow Down\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: folder-arrow-down"
+                                },
+"Heroicon Folder Minus":  {
+                                "prefix":  "icon-folder-minus",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}folder-minus.svg\" alt=\"Folder Minus\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: folder-minus"
+                            },
+"Heroicon Folder Open":  {
+                                "prefix":  "icon-folder-open",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}folder-open.svg\" alt=\"Folder Open\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: folder-open"
+                            },
+"Heroicon Folder Plus":  {
+                                "prefix":  "icon-folder-plus",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}folder-plus.svg\" alt=\"Folder Plus\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: folder-plus"
+                            },
+"Heroicon Folder":  {
+                        "prefix":  "icon-folder",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}folder.svg\" alt=\"Folder\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: folder"
+                    },
+"Heroicon Forward":  {
+                            "prefix":  "icon-forward",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}forward.svg\" alt=\"Forward\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: forward"
+                        },
+"Heroicon Funnel":  {
+                        "prefix":  "icon-funnel",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}funnel.svg\" alt=\"Funnel\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: funnel"
+                    },
+"Heroicon Gif":  {
+                        "prefix":  "icon-gif",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}gif.svg\" alt=\"Gif\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: gif"
+                    },
+"Heroicon Gift Top":  {
+                            "prefix":  "icon-gift-top",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}gift-top.svg\" alt=\"Gift Top\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: gift-top"
+                        },
+"Heroicon Gift":  {
+                        "prefix":  "icon-gift",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}gift.svg\" alt=\"Gift\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: gift"
+                    },
+"Heroicon Globe Alt":  {
+                            "prefix":  "icon-globe-alt",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}globe-alt.svg\" alt=\"Globe Alt\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: globe-alt"
+                        },
+"Heroicon Globe Americas":  {
+                                "prefix":  "icon-globe-americas",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}globe-americas.svg\" alt=\"Globe Americas\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: globe-americas"
+                            },
+"Heroicon Globe Asia Australia":  {
+                                        "prefix":  "icon-globe-asia-australia",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}globe-asia-australia.svg\" alt=\"Globe Asia Australia\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: globe-asia-australia"
+                                    },
+"Heroicon Globe Europe Africa":  {
+                                        "prefix":  "icon-globe-europe-africa",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}globe-europe-africa.svg\" alt=\"Globe Europe Africa\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: globe-europe-africa"
+                                    },
+"Heroicon H1":  {
+                    "prefix":  "icon-h1",
+                    "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}h1.svg\" alt=\"H1\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                    "description":  "Heroicons Outline: h1"
+                },
+"Heroicon H2":  {
+                    "prefix":  "icon-h2",
+                    "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}h2.svg\" alt=\"H2\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                    "description":  "Heroicons Outline: h2"
+                },
+"Heroicon H3":  {
+                    "prefix":  "icon-h3",
+                    "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}h3.svg\" alt=\"H3\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                    "description":  "Heroicons Outline: h3"
+                },
+"Heroicon Hand Raised":  {
+                                "prefix":  "icon-hand-raised",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}hand-raised.svg\" alt=\"Hand Raised\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: hand-raised"
+                            },
+"Heroicon Hand Thumb Down":  {
+                                    "prefix":  "icon-hand-thumb-down",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}hand-thumb-down.svg\" alt=\"Hand Thumb Down\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: hand-thumb-down"
+                                },
+"Heroicon Hand Thumb Up":  {
+                                "prefix":  "icon-hand-thumb-up",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}hand-thumb-up.svg\" alt=\"Hand Thumb Up\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: hand-thumb-up"
+                            },
+"Heroicon Hashtag":  {
+                            "prefix":  "icon-hashtag",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}hashtag.svg\" alt=\"Hashtag\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: hashtag"
+                        },
+"Heroicon Heart":  {
+                        "prefix":  "icon-heart",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}heart.svg\" alt=\"Heart\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: heart"
+                    },
+"Heroicon Home Modern":  {
+                                "prefix":  "icon-home-modern",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}home-modern.svg\" alt=\"Home Modern\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: home-modern"
+                            },
+"Heroicon Home":  {
+                        "prefix":  "icon-home",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}home.svg\" alt=\"Home\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: home"
+                    },
+"Heroicon Identification":  {
+                                "prefix":  "icon-identification",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}identification.svg\" alt=\"Identification\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: identification"
+                            },
+"Heroicon Inbox Arrow Down":  {
+                                    "prefix":  "icon-inbox-arrow-down",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}inbox-arrow-down.svg\" alt=\"Inbox Arrow Down\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: inbox-arrow-down"
+                                },
+"Heroicon Inbox Stack":  {
+                                "prefix":  "icon-inbox-stack",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}inbox-stack.svg\" alt=\"Inbox Stack\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: inbox-stack"
+                            },
+"Heroicon Inbox":  {
+                        "prefix":  "icon-inbox",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}inbox.svg\" alt=\"Inbox\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: inbox"
+                    },
+"Heroicon Information Circle":  {
+                                    "prefix":  "icon-information-circle",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}information-circle.svg\" alt=\"Information Circle\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: information-circle"
+                                },
+"Heroicon Italic":  {
+                        "prefix":  "icon-italic",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}italic.svg\" alt=\"Italic\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: italic"
+                    },
+"Heroicon Key":  {
+                        "prefix":  "icon-key",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}key.svg\" alt=\"Key\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: key"
+                    },
+"Heroicon Language":  {
+                            "prefix":  "icon-language",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}language.svg\" alt=\"Language\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: language"
+                        },
+"Heroicon Lifebuoy":  {
+                            "prefix":  "icon-lifebuoy",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}lifebuoy.svg\" alt=\"Lifebuoy\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: lifebuoy"
+                        },
+"Heroicon Light Bulb":  {
+                            "prefix":  "icon-light-bulb",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}light-bulb.svg\" alt=\"Light Bulb\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: light-bulb"
+                        },
+"Heroicon Link Slash":  {
+                            "prefix":  "icon-link-slash",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}link-slash.svg\" alt=\"Link Slash\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: link-slash"
+                        },
+"Heroicon Link":  {
+                        "prefix":  "icon-link",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}link.svg\" alt=\"Link\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: link"
+                    },
+"Heroicon List Bullet":  {
+                                "prefix":  "icon-list-bullet",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}list-bullet.svg\" alt=\"List Bullet\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: list-bullet"
+                            },
+"Heroicon Lock Closed":  {
+                                "prefix":  "icon-lock-closed",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}lock-closed.svg\" alt=\"Lock Closed\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: lock-closed"
+                            },
+"Heroicon Lock Open":  {
+                            "prefix":  "icon-lock-open",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}lock-open.svg\" alt=\"Lock Open\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: lock-open"
+                        },
+"Heroicon Magnifying Glass Circle":  {
+                                            "prefix":  "icon-magnifying-glass-circle",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}magnifying-glass-circle.svg\" alt=\"Magnifying Glass Circle\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: magnifying-glass-circle"
+                                        },
+"Heroicon Magnifying Glass Minus":  {
+                                        "prefix":  "icon-magnifying-glass-minus",
+                                        "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}magnifying-glass-minus.svg\" alt=\"Magnifying Glass Minus\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                        "description":  "Heroicons Outline: magnifying-glass-minus"
+                                    },
+"Heroicon Magnifying Glass Plus":  {
+                                        "prefix":  "icon-magnifying-glass-plus",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}magnifying-glass-plus.svg\" alt=\"Magnifying Glass Plus\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: magnifying-glass-plus"
+                                    },
+"Heroicon Magnifying Glass":  {
+                                    "prefix":  "icon-magnifying-glass",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}magnifying-glass.svg\" alt=\"Magnifying Glass\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: magnifying-glass"
+                                },
+"Heroicon Map Pin":  {
+                            "prefix":  "icon-map-pin",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}map-pin.svg\" alt=\"Map Pin\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: map-pin"
+                        },
+"Heroicon Map":  {
+                        "prefix":  "icon-map",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}map.svg\" alt=\"Map\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: map"
+                    },
+"Heroicon Megaphone":  {
+                            "prefix":  "icon-megaphone",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}megaphone.svg\" alt=\"Megaphone\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: megaphone"
+                        },
+"Heroicon Microphone":  {
+                            "prefix":  "icon-microphone",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}microphone.svg\" alt=\"Microphone\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: microphone"
+                        },
+"Heroicon Minus Circle":  {
+                                "prefix":  "icon-minus-circle",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}minus-circle.svg\" alt=\"Minus Circle\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: minus-circle"
+                            },
+"Heroicon Minus":  {
+                        "prefix":  "icon-minus",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}minus.svg\" alt=\"Minus\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: minus"
+                    },
+"Heroicon Moon":  {
+                        "prefix":  "icon-moon",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}moon.svg\" alt=\"Moon\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: moon"
+                    },
+"Heroicon Musical Note":  {
+                                "prefix":  "icon-musical-note",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}musical-note.svg\" alt=\"Musical Note\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: musical-note"
+                            },
+"Heroicon Newspaper":  {
+                            "prefix":  "icon-newspaper",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}newspaper.svg\" alt=\"Newspaper\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: newspaper"
+                        },
+"Heroicon No Symbol":  {
+                            "prefix":  "icon-no-symbol",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}no-symbol.svg\" alt=\"No Symbol\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: no-symbol"
+                        },
+"Heroicon Numbered List":  {
+                                "prefix":  "icon-numbered-list",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}numbered-list.svg\" alt=\"Numbered List\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: numbered-list"
+                            },
+"Heroicon Paint Brush":  {
+                                "prefix":  "icon-paint-brush",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}paint-brush.svg\" alt=\"Paint Brush\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: paint-brush"
+                            },
+"Heroicon Paper Airplane":  {
+                                "prefix":  "icon-paper-airplane",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}paper-airplane.svg\" alt=\"Paper Airplane\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: paper-airplane"
+                            },
+"Heroicon Paper Clip":  {
+                            "prefix":  "icon-paper-clip",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}paper-clip.svg\" alt=\"Paper Clip\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: paper-clip"
+                        },
+"Heroicon Pause Circle":  {
+                                "prefix":  "icon-pause-circle",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}pause-circle.svg\" alt=\"Pause Circle\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: pause-circle"
+                            },
+"Heroicon Pause":  {
+                        "prefix":  "icon-pause",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}pause.svg\" alt=\"Pause\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: pause"
+                    },
+"Heroicon Pencil Square":  {
+                                "prefix":  "icon-pencil-square",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}pencil-square.svg\" alt=\"Pencil Square\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: pencil-square"
+                            },
+"Heroicon Pencil":  {
+                        "prefix":  "icon-pencil",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}pencil.svg\" alt=\"Pencil\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: pencil"
+                    },
+"Heroicon Percent Badge":  {
+                                "prefix":  "icon-percent-badge",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}percent-badge.svg\" alt=\"Percent Badge\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: percent-badge"
+                            },
+"Heroicon Phone Arrow Down Left":  {
+                                        "prefix":  "icon-phone-arrow-down-left",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}phone-arrow-down-left.svg\" alt=\"Phone Arrow Down Left\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: phone-arrow-down-left"
+                                    },
+"Heroicon Phone Arrow Up Right":  {
+                                        "prefix":  "icon-phone-arrow-up-right",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}phone-arrow-up-right.svg\" alt=\"Phone Arrow Up Right\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: phone-arrow-up-right"
+                                    },
+"Heroicon Phone X Mark":  {
+                                "prefix":  "icon-phone-x-mark",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}phone-x-mark.svg\" alt=\"Phone X Mark\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: phone-x-mark"
+                            },
+"Heroicon Phone":  {
+                        "prefix":  "icon-phone",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}phone.svg\" alt=\"Phone\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: phone"
+                    },
+"Heroicon Photo":  {
+                        "prefix":  "icon-photo",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}photo.svg\" alt=\"Photo\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: photo"
+                    },
+"Heroicon Play Circle":  {
+                                "prefix":  "icon-play-circle",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}play-circle.svg\" alt=\"Play Circle\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: play-circle"
+                            },
+"Heroicon Play Pause":  {
+                            "prefix":  "icon-play-pause",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}play-pause.svg\" alt=\"Play Pause\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: play-pause"
+                        },
+"Heroicon Play":  {
+                        "prefix":  "icon-play",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}play.svg\" alt=\"Play\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: play"
+                    },
+"Heroicon Plus Circle":  {
+                                "prefix":  "icon-plus-circle",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}plus-circle.svg\" alt=\"Plus Circle\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: plus-circle"
+                            },
+"Heroicon Plus":  {
+                        "prefix":  "icon-plus",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}plus.svg\" alt=\"Plus\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: plus"
+                    },
+"Heroicon Power":  {
+                        "prefix":  "icon-power",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}power.svg\" alt=\"Power\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: power"
+                    },
+"Heroicon Presentation Chart Bar":  {
+                                        "prefix":  "icon-presentation-chart-bar",
+                                        "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}presentation-chart-bar.svg\" alt=\"Presentation Chart Bar\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                        "description":  "Heroicons Outline: presentation-chart-bar"
+                                    },
+"Heroicon Presentation Chart Line":  {
+                                            "prefix":  "icon-presentation-chart-line",
+                                            "body":  [
+                                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}presentation-chart-line.svg\" alt=\"Presentation Chart Line\" width=\"24\" height=\"24\"\u003e"
+                                                    ],
+                                            "description":  "Heroicons Outline: presentation-chart-line"
+                                        },
+"Heroicon Printer":  {
+                            "prefix":  "icon-printer",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}printer.svg\" alt=\"Printer\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: printer"
+                        },
+"Heroicon Puzzle Piece":  {
+                                "prefix":  "icon-puzzle-piece",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}puzzle-piece.svg\" alt=\"Puzzle Piece\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: puzzle-piece"
+                            },
+"Heroicon Qr Code":  {
+                            "prefix":  "icon-qr-code",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}qr-code.svg\" alt=\"Qr Code\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: qr-code"
+                        },
+"Heroicon Question Mark Circle":  {
+                                        "prefix":  "icon-question-mark-circle",
+                                        "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}question-mark-circle.svg\" alt=\"Question Mark Circle\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                        "description":  "Heroicons Outline: question-mark-circle"
+                                    },
+"Heroicon Queue List":  {
+                            "prefix":  "icon-queue-list",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}queue-list.svg\" alt=\"Queue List\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: queue-list"
+                        },
+"Heroicon Radio":  {
+                        "prefix":  "icon-radio",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}radio.svg\" alt=\"Radio\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: radio"
+                    },
+"Heroicon Receipt Percent":  {
+                                    "prefix":  "icon-receipt-percent",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}receipt-percent.svg\" alt=\"Receipt Percent\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: receipt-percent"
+                                },
+"Heroicon Receipt Refund":  {
+                                "prefix":  "icon-receipt-refund",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}receipt-refund.svg\" alt=\"Receipt Refund\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: receipt-refund"
+                            },
+"Heroicon Rectangle Group":  {
+                                    "prefix":  "icon-rectangle-group",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}rectangle-group.svg\" alt=\"Rectangle Group\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: rectangle-group"
+                                },
+"Heroicon Rectangle Stack":  {
+                                    "prefix":  "icon-rectangle-stack",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}rectangle-stack.svg\" alt=\"Rectangle Stack\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: rectangle-stack"
+                                },
+"Heroicon Rocket Launch":  {
+                                "prefix":  "icon-rocket-launch",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}rocket-launch.svg\" alt=\"Rocket Launch\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: rocket-launch"
+                            },
+"Heroicon Rss":  {
+                        "prefix":  "icon-rss",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}rss.svg\" alt=\"Rss\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: rss"
+                    },
+"Heroicon Scale":  {
+                        "prefix":  "icon-scale",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}scale.svg\" alt=\"Scale\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: scale"
+                    },
+"Heroicon Scissors":  {
+                            "prefix":  "icon-scissors",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}scissors.svg\" alt=\"Scissors\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: scissors"
+                        },
+"Heroicon Server Stack":  {
+                                "prefix":  "icon-server-stack",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}server-stack.svg\" alt=\"Server Stack\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: server-stack"
+                            },
+"Heroicon Server":  {
+                        "prefix":  "icon-server",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}server.svg\" alt=\"Server\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: server"
+                    },
+"Heroicon Share":  {
+                        "prefix":  "icon-share",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}share.svg\" alt=\"Share\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: share"
+                    },
+"Heroicon Shield Check":  {
+                                "prefix":  "icon-shield-check",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}shield-check.svg\" alt=\"Shield Check\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: shield-check"
+                            },
+"Heroicon Shield Exclamation":  {
+                                    "prefix":  "icon-shield-exclamation",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}shield-exclamation.svg\" alt=\"Shield Exclamation\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: shield-exclamation"
+                                },
+"Heroicon Shopping Bag":  {
+                                "prefix":  "icon-shopping-bag",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}shopping-bag.svg\" alt=\"Shopping Bag\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: shopping-bag"
+                            },
+"Heroicon Shopping Cart":  {
+                                "prefix":  "icon-shopping-cart",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}shopping-cart.svg\" alt=\"Shopping Cart\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: shopping-cart"
+                            },
+"Heroicon Signal Slash":  {
+                                "prefix":  "icon-signal-slash",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}signal-slash.svg\" alt=\"Signal Slash\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: signal-slash"
+                            },
+"Heroicon Signal":  {
+                        "prefix":  "icon-signal",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}signal.svg\" alt=\"Signal\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: signal"
+                    },
+"Heroicon Slash":  {
+                        "prefix":  "icon-slash",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}slash.svg\" alt=\"Slash\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: slash"
+                    },
+"Heroicon Sparkles":  {
+                            "prefix":  "icon-sparkles",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}sparkles.svg\" alt=\"Sparkles\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: sparkles"
+                        },
+"Heroicon Speaker Wave":  {
+                                "prefix":  "icon-speaker-wave",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}speaker-wave.svg\" alt=\"Speaker Wave\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: speaker-wave"
+                            },
+"Heroicon Speaker X Mark":  {
+                                "prefix":  "icon-speaker-x-mark",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}speaker-x-mark.svg\" alt=\"Speaker X Mark\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: speaker-x-mark"
+                            },
+"Heroicon Square 2 Stack":  {
+                                "prefix":  "icon-square-2-stack",
+                                "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}square-2-stack.svg\" alt=\"Square 2 Stack\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                "description":  "Heroicons Outline: square-2-stack"
+                            },
+"Heroicon Square 3 Stack 3D":  {
+                                    "prefix":  "icon-square-3-stack-3d",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}square-3-stack-3d.svg\" alt=\"Square 3 Stack 3D\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: square-3-stack-3d"
+                                },
+"Heroicon Squares 2X2":  {
+                                "prefix":  "icon-squares-2x2",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}squares-2x2.svg\" alt=\"Squares 2X2\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: squares-2x2"
+                            },
+"Heroicon Squares Plus":  {
+                                "prefix":  "icon-squares-plus",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}squares-plus.svg\" alt=\"Squares Plus\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: squares-plus"
+                            },
+"Heroicon Star":  {
+                        "prefix":  "icon-star",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}star.svg\" alt=\"Star\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: star"
+                    },
+"Heroicon Stop Circle":  {
+                                "prefix":  "icon-stop-circle",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}stop-circle.svg\" alt=\"Stop Circle\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: stop-circle"
+                            },
+"Heroicon Stop":  {
+                        "prefix":  "icon-stop",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}stop.svg\" alt=\"Stop\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: stop"
+                    },
+"Heroicon Strikethrough":  {
+                                "prefix":  "icon-strikethrough",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}strikethrough.svg\" alt=\"Strikethrough\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: strikethrough"
+                            },
+"Heroicon Sun":  {
+                        "prefix":  "icon-sun",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}sun.svg\" alt=\"Sun\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: sun"
+                    },
+"Heroicon Swatch":  {
+                        "prefix":  "icon-swatch",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}swatch.svg\" alt=\"Swatch\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: swatch"
+                    },
+"Heroicon Table Cells":  {
+                                "prefix":  "icon-table-cells",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}table-cells.svg\" alt=\"Table Cells\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: table-cells"
+                            },
+"Heroicon Tag":  {
+                        "prefix":  "icon-tag",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}tag.svg\" alt=\"Tag\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: tag"
+                    },
+"Heroicon Ticket":  {
+                        "prefix":  "icon-ticket",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}ticket.svg\" alt=\"Ticket\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: ticket"
+                    },
+"Heroicon Trash":  {
+                        "prefix":  "icon-trash",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}trash.svg\" alt=\"Trash\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: trash"
+                    },
+"Heroicon Trophy":  {
+                        "prefix":  "icon-trophy",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}trophy.svg\" alt=\"Trophy\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: trophy"
+                    },
+"Heroicon Truck":  {
+                        "prefix":  "icon-truck",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}truck.svg\" alt=\"Truck\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: truck"
+                    },
+"Heroicon Tv":  {
+                    "prefix":  "icon-tv",
+                    "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}tv.svg\" alt=\"Tv\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                    "description":  "Heroicons Outline: tv"
+                },
+"Heroicon Underline":  {
+                            "prefix":  "icon-underline",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}underline.svg\" alt=\"Underline\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: underline"
+                        },
+"Heroicon User Circle":  {
+                                "prefix":  "icon-user-circle",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}user-circle.svg\" alt=\"User Circle\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: user-circle"
+                            },
+"Heroicon User Group":  {
+                            "prefix":  "icon-user-group",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}user-group.svg\" alt=\"User Group\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: user-group"
+                        },
+"Heroicon User Minus":  {
+                            "prefix":  "icon-user-minus",
+                            "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}user-minus.svg\" alt=\"User Minus\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                            "description":  "Heroicons Outline: user-minus"
+                        },
+"Heroicon User Plus":  {
+                            "prefix":  "icon-user-plus",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}user-plus.svg\" alt=\"User Plus\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: user-plus"
+                        },
+"Heroicon User":  {
+                        "prefix":  "icon-user",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}user.svg\" alt=\"User\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: user"
+                    },
+"Heroicon Users":  {
+                        "prefix":  "icon-users",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}users.svg\" alt=\"Users\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: users"
+                    },
+"Heroicon Variable":  {
+                            "prefix":  "icon-variable",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}variable.svg\" alt=\"Variable\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: variable"
+                        },
+"Heroicon Video Camera Slash":  {
+                                    "prefix":  "icon-video-camera-slash",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}video-camera-slash.svg\" alt=\"Video Camera Slash\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: video-camera-slash"
+                                },
+"Heroicon Video Camera":  {
+                                "prefix":  "icon-video-camera",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}video-camera.svg\" alt=\"Video Camera\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: video-camera"
+                            },
+"Heroicon View Columns":  {
+                                "prefix":  "icon-view-columns",
+                                "body":  [
+                                            "\u003cimg src=\"${1:../assets/homeicons/outline/}view-columns.svg\" alt=\"View Columns\" width=\"24\" height=\"24\"\u003e"
+                                        ],
+                                "description":  "Heroicons Outline: view-columns"
+                            },
+"Heroicon Viewfinder Circle":  {
+                                    "prefix":  "icon-viewfinder-circle",
+                                    "body":  [
+                                                "\u003cimg src=\"${1:../assets/homeicons/outline/}viewfinder-circle.svg\" alt=\"Viewfinder Circle\" width=\"24\" height=\"24\"\u003e"
+                                            ],
+                                    "description":  "Heroicons Outline: viewfinder-circle"
+                                },
+"Heroicon Wallet":  {
+                        "prefix":  "icon-wallet",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}wallet.svg\" alt=\"Wallet\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: wallet"
+                    },
+"Heroicon Wifi":  {
+                        "prefix":  "icon-wifi",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}wifi.svg\" alt=\"Wifi\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: wifi"
+                    },
+"Heroicon Window":  {
+                        "prefix":  "icon-window",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}window.svg\" alt=\"Window\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: window"
+                    },
+"Heroicon Wrench Screwdriver":  {
+                                    "prefix":  "icon-wrench-screwdriver",
+                                    "body":  [
+                                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}wrench-screwdriver.svg\" alt=\"Wrench Screwdriver\" width=\"24\" height=\"24\"\u003e"
+                                                ],
+                                    "description":  "Heroicons Outline: wrench-screwdriver"
+                                },
+"Heroicon Wrench":  {
+                        "prefix":  "icon-wrench",
+                        "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}wrench.svg\" alt=\"Wrench\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                        "description":  "Heroicons Outline: wrench"
+                    },
+"Heroicon X Circle":  {
+                            "prefix":  "icon-x-circle",
+                            "body":  [
+                                        "\u003cimg src=\"${1:../assets/homeicons/outline/}x-circle.svg\" alt=\"X Circle\" width=\"24\" height=\"24\"\u003e"
+                                    ],
+                            "description":  "Heroicons Outline: x-circle"
+                        },
+"Heroicon X Mark":  {
+                        "prefix":  "icon-x-mark",
+                        "body":  [
+                                    "\u003cimg src=\"${1:../assets/homeicons/outline/}x-mark.svg\" alt=\"X Mark\" width=\"24\" height=\"24\"\u003e"
+                                ],
+                        "description":  "Heroicons Outline: x-mark"
+                    }
+}
